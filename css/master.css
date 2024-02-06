@@ -87,7 +87,7 @@ ul {
   .sidebar > h3 {
     font-size: 13px;
     margin-bottom: 15px;
-    margin-left:5px;
+    margin-right: 5px;
   }
   .sidebar > h3::before,
   .sidebar > h3::after {
